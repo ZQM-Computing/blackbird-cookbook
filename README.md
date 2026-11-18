@@ -35,6 +35,8 @@ Practitioners who check username presence across social platforms.
 
 ## Patterns (planned)
 
+**Nothing below exists yet.**
+
 | # | Example | What it will demonstrate |
 |---|---------|--------------------------|
 | 01 | `01-first-search` | A first search and its output |
